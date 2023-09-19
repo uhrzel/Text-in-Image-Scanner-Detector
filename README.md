@@ -1,2 +1,2 @@
 # Text-in-Image-Scanner-Detector
-# Using EasyOCR
+Using EasyOCR
